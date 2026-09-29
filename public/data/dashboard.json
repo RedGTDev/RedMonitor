@@ -1,8 +1,8 @@
 {
   "version": 3,
   "hotelName": "Reddington Chalets",
-  "publishedAt": "2026-09-23T09:34:20.295Z",
-  "executiveSummary": "The 213 distinct scanned forms contain 110 positive, 92 mixed and 10 negative assessments; one earlier cropped form remains unclear. The latest supplied period, 14–20 September, adds 33 forms: 18 positive, 14 mixed and 1 negative. Praise centres on staff service and enjoyable stays. Food variety (19 forms), service speed (15) and the access road (12) remain frequent specific concerns. Six forms now report pests, including three new cockroach reports; two earlier forms raise room-lock security issues. Prompt checks are warranted. The new batch also raises food freshness, water availability and housekeeping concerns. Good or excellent ticks often coexist with complaints. Figures come from scans only; supplied reporting-period labels are not verified response dates. Date discrepancies are disclosed, and the first entry still has no scans.",
+  "publishedAt": "2026-09-29T18:05:27.581Z",
+  "executiveSummary": "The 220 distinct scanned forms contain 110 positive, 99 mixed and 10 negative assessments; one earlier cropped form remains unclear. The latest supplied period, 21–27 September, adds seven mixed forms, combining favourable ratings or comments with specific concerns. New findings cover food delays, small portions, freshness and preparation, late housekeeping and dish collection, beachfront internet, gym availability and the access road. One form explicitly praises service and another the location. Food variety (20 forms), service speed (17) and the access road (13) remain frequent concerns. Six earlier forms report pests and two raise room-lock security issues; those checks remain priorities. Figures come from scans only. Reporting-period labels are not verified response dates, one new overwritten rating is excluded, and the first entry still has no scans.",
   "periods": [
     {
       "id": "period-001",
@@ -123,6 +123,18 @@
       "observedForms": 33,
       "duplicateForms": 0,
       "note": "33 completed forms on 17 pages; one unused blank form is excluded. Period follows the supplied batch filename. Some handwritten dates fall outside this period, including 21 September; individual response dates are not verified. Three ambiguous item selections are excluded. Similar pest comments and forms from the same respondent have different ratings and are retained as distinct forms. Spreadsheet figures were not imported."
+    },
+    {
+      "id": "period-011",
+      "label": "21–27 Sep 2026",
+      "start": "2026-09-21",
+      "end": "2026-09-27",
+      "status": "scanned",
+      "scannedPages": 4,
+      "blankPages": 0,
+      "observedForms": 7,
+      "duplicateForms": 0,
+      "note": "Seven distinct forms on four pages; no blank pages or repeated copies identified. Period follows the supplied batch filename; visible dates are consistent with it, but individual response dates are not verified. One overwritten food-choice selection is excluded as ambiguous. One comment-only form has no selected ratings. Spreadsheet figures were not imported."
     }
   ],
   "records": [
@@ -6979,6 +6991,238 @@
       ],
       "summary": "Expresses an excellent overall assessment and marks all items excellent.",
       "uncertainItems": []
+    },
+    {
+      "id": "response-214",
+      "periodId": "period-011",
+      "scores": [
+        null,
+        null,
+        null,
+        3,
+        3,
+        3,
+        null,
+        3,
+        null,
+        null,
+        null,
+        4,
+        3,
+        2,
+        null,
+        4,
+        3,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Service speed",
+        "Food portions"
+      ],
+      "praises": [],
+      "summary": "Reports delayed food and a small chicken portion. Food items otherwise receive good marks, with excellent professionalism and ambience; service speed is rated average."
+    },
+    {
+      "id": "response-215",
+      "periodId": "period-011",
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Access road"
+      ],
+      "praises": [
+        "Location"
+      ],
+      "summary": "Praises the location but describes the access road as poor. No item ratings are selected."
+    },
+    {
+      "id": "response-216",
+      "periodId": "period-011",
+      "scores": [
+        4,
+        3,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        4,
+        3,
+        null,
+        2,
+        3,
+        4,
+        4,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Service speed",
+        "Recreation availability"
+      ],
+      "praises": [],
+      "summary": "Reports food delays and the absence of a gym. Cleanliness, friendliness and ambience receive excellent marks; amenities and service speed are average. Food, recreation and menu explanation are marked not applicable."
+    },
+    {
+      "id": "response-217",
+      "periodId": "period-011",
+      "scores": [
+        3,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        4,
+        3,
+        2,
+        2,
+        4,
+        3,
+        3,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Service",
+        "Housekeeping speed",
+        "Table clearing",
+        "Food flavour",
+        "Food presentation",
+        "Food variety",
+        "Food freshness"
+      ],
+      "praises": [],
+      "summary": "Reports poor room service, room cleaning delayed until evening and breakfast dishes left in the room all day. Food flavour, presentation, choice and freshness receive needs-improvement marks, while room and venue ratings are good and staff friendliness and presentation are excellent."
+    },
+    {
+      "id": "response-218",
+      "periodId": "period-011",
+      "scores": [
+        null,
+        null,
+        null,
+        2,
+        3,
+        3,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        3,
+        4,
+        3
+      ],
+      "uncertainItems": [
+        6
+      ],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Food freshness",
+        "Food portions"
+      ],
+      "praises": [],
+      "summary": "Reports fish that was not fresh and a small fish serving. Portion size is rated average; flavour, presentation, ambience and location are good, and venue cleanliness is excellent. The overwritten food-choice selection is excluded."
+    },
+    {
+      "id": "response-219",
+      "periodId": "period-011",
+      "scores": [
+        null,
+        null,
+        null,
+        4,
+        4,
+        4,
+        3,
+        4,
+        null,
+        null,
+        null,
+        4,
+        3,
+        3,
+        4,
+        null,
+        null,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Food"
+      ],
+      "praises": [
+        "Service"
+      ],
+      "summary": "Praises the service but reports very hard rice. Food ratings are good or excellent, preserving the disagreement between the comment and favourable marks."
+    },
+    {
+      "id": "response-220",
+      "periodId": "period-011",
+      "scores": [
+        null,
+        null,
+        null,
+        4,
+        3,
+        2,
+        2,
+        3,
+        null,
+        null,
+        4,
+        4,
+        4,
+        3,
+        4,
+        null,
+        null,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Wi-Fi"
+      ],
+      "praises": [],
+      "summary": "Reports no internet at the beachfront and requests a fix. Service ratings are good or excellent; food presentation and choice are average, with other food items good or excellent."
     }
   ],
   "insights": [
@@ -6997,7 +7241,7 @@
       "type": "opportunity",
       "priority": "high",
       "title": "Investigate pest reports",
-      "detail": "Six distinct forms across three reporting periods report pests. The latest batch adds three cockroach reports involving rooms, with two also mentioning the restaurant. These are guest reports requiring verification; favourable ratings elsewhere do not cancel them.",
+      "detail": "Six distinct forms across three reporting periods report pests. The 14–20 September batch includes three cockroach reports involving rooms, with two also mentioning the restaurant. These are guest reports requiring verification; favourable ratings elsewhere do not cancel them.",
       "recommendation": "Inspect the reported spaces, review pest-control and cleaning records, address entry points and verify follow-up results.",
       "responseIds": [
         "response-034",
@@ -7012,7 +7256,7 @@
       "type": "opportunity",
       "priority": "routine",
       "title": "Broaden food choice and keep options available",
-      "detail": "Food variety is flagged on 19 forms; availability on 6. Requests include buffet and drink choices, later menu availability and breakfast supplies. Counts overlap and should not be added as unique guests.",
+      "detail": "Food variety is flagged on 20 forms; availability on 6. Requests include buffet and drink choices, later menu availability and breakfast supplies. Counts overlap and should not be added as unique guests.",
       "recommendation": "Review buffet rotation and stock planning; communicate unavailable dishes before orders, and assess a limited late-evening menu.",
       "responseIds": [
         "response-015",
@@ -7038,14 +7282,15 @@
         "response-162",
         "response-163",
         "response-180",
-        "response-181"
+        "response-181",
+        "response-217"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Improve speed and keep guests informed",
-      "detail": "Service speed is flagged on 15 forms. Earlier comments include requests for food-ready calls and a form that praises prompt staff while marking speed as needing improvement. Both favourable and adverse evidence are retained.",
+      "detail": "Service speed is flagged on 17 forms, including two new food-delay reports in 21–27 September. Earlier comments include requests for food-ready calls and a form that praises prompt staff while marking speed as needing improvement. Both favourable and adverse evidence are retained.",
       "recommendation": "Track order-to-service time, agree who notifies guests when orders are ready, and review breakfast readiness and table clearing.",
       "responseIds": [
         "response-004",
@@ -7062,14 +7307,16 @@
         "response-163",
         "response-166",
         "response-167",
-        "response-189"
+        "response-189",
+        "response-214",
+        "response-216"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Repair missing or nonworking room essentials",
-      "detail": "Amenities are flagged on 13 forms and room maintenance on 11, with overlap. New reports include bathroom-door positioning, drainage and a nonworking room phone.",
+      "detail": "Amenities are flagged on 13 forms and room maintenance on 11, with overlap. Reports in 14–20 September include bathroom-door positioning, drainage and a nonworking room phone.",
       "recommendation": "Use a room-readiness checklist for amenities, television, hot water, shower and leaks. Track reported faults through resolution.",
       "responseIds": [
         "response-027",
@@ -7098,7 +7345,7 @@
       "type": "opportunity",
       "priority": "routine",
       "title": "Improve the arrival experience",
-      "detail": "The access road is flagged on 12 forms, and wayfinding on 5. The latter includes signs and directions within or approaching the property.",
+      "detail": "The access road is flagged on 13 forms, and wayfinding on 5. The latest road complaint accompanies praise for the location. Wayfinding includes signs and directions within or approaching the property.",
       "recommendation": "Assess road repairs with the responsible parties and add clear approach signs and arrival directions.",
       "responseIds": [
         "response-009",
@@ -7117,14 +7364,15 @@
         "response-163",
         "response-167",
         "response-170",
-        "response-184"
+        "response-184",
+        "response-215"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Review food quality and portions",
-      "detail": "Food temperature is flagged on 5 forms, freshness on 5, portions on 8 and flavour on 7. New comments describe tasteless food and stale or dry meat. These are guest reports, not confirmed food-safety findings; category counts overlap.",
+      "detail": "Food temperature is flagged on 5 forms, freshness on 7, portions on 10 and flavour on 8. The latest batch adds two freshness concerns and two portion complaints. These are guest reports and selected ratings, not confirmed food-safety findings; category counts overlap.",
       "recommendation": "Review food holding and service routines, investigate freshness reports and standardize portions against what guests are offered.",
       "responseIds": [
         "response-015",
@@ -7146,14 +7394,17 @@
         "response-193",
         "response-194",
         "response-200",
-        "response-212"
+        "response-212",
+        "response-214",
+        "response-217",
+        "response-218"
       ]
     },
     {
       "type": "strength",
       "priority": "routine",
       "title": "Preserve the hospitality guests value",
-      "detail": "Explicit praise includes service on 34 forms, staff friendliness on 8 and professionalism on 4. Categories overlap; positive ticks alone do not count as written praise.",
+      "detail": "Explicit praise includes service on 35 forms, staff friendliness on 8 and professionalism on 4. Categories overlap; positive ticks alone do not count as written praise.",
       "recommendation": "Recognize the behaviours guests praise and use them in coaching, alongside the specific service concerns.",
       "responseIds": [
         "response-003",
@@ -7196,7 +7447,8 @@
         "response-187",
         "response-188",
         "response-191",
-        "response-195"
+        "response-195",
+        "response-219"
       ]
     },
     {
@@ -7273,6 +7525,51 @@
         "response-207",
         "response-210",
         "response-213"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "high",
+      "title": "Check food freshness and preparation",
+      "detail": "In the 21–27 September reporting period: two forms flag freshness: one reports fish that was not fresh, and another gives freshness the lowest rating alongside flavour, presentation and choice. A third form reports hard rice despite favourable food ratings. These reports require verification.",
+      "recommendation": "Check ingredient freshness, storage and preparation, and review the reported dishes and rice texture before service.",
+      "responseIds": [
+        "response-217",
+        "response-218",
+        "response-219"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Reduce food delays and review portions",
+      "detail": "In the 21–27 September reporting period: two forms report food delays and two report small portions, with one form in both groups. Good food marks coexist with portion complaints.",
+      "recommendation": "Track order waiting times, communicate delays and check portion standards against the menu.",
+      "responseIds": [
+        "response-214",
+        "response-216",
+        "response-218"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Follow up late housekeeping and dish collection",
+      "detail": "In the 21–27 September reporting period: one form reports cleaning delayed until evening and breakfast dishes left in the room all day, alongside poor room service. Good room ratings do not cancel the written complaint.",
+      "recommendation": "Review housekeeping completion times and room-service collection rounds, and follow up the complaint using private records.",
+      "responseIds": [
+        "response-217"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Check beachfront internet and recreation provision",
+      "detail": "In the 21–27 September reporting period: one form reports no beachfront internet; a separate form reports no gym. These are guest reports about availability.",
+      "recommendation": "Test internet coverage in beachfront guest areas and clarify available fitness facilities and alternatives.",
+      "responseIds": [
+        "response-216",
+        "response-220"
       ]
     }
   ],
@@ -8040,6 +8337,77 @@
         "response-213"
       ],
       "periodId": "period-010"
+    },
+    {
+      "type": "opportunity",
+      "priority": "high",
+      "title": "Check food freshness and preparation",
+      "detail": "Two forms flag freshness: one reports fish that was not fresh, and another gives freshness the lowest rating alongside flavour, presentation and choice. A third form reports hard rice despite favourable food ratings. These reports require verification.",
+      "recommendation": "Check ingredient freshness, storage and preparation, and review the reported dishes and rice texture before service.",
+      "responseIds": [
+        "response-217",
+        "response-218",
+        "response-219"
+      ],
+      "periodId": "period-011"
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Reduce food delays and review portions",
+      "detail": "Two forms report food delays and two report small portions, with one form in both groups. Good food marks coexist with portion complaints.",
+      "recommendation": "Track order waiting times, communicate delays and check portion standards against the menu.",
+      "responseIds": [
+        "response-214",
+        "response-216",
+        "response-218"
+      ],
+      "periodId": "period-011"
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Follow up late housekeeping and dish collection",
+      "detail": "One form reports cleaning delayed until evening and breakfast dishes left in the room all day, alongside poor room service. Good room ratings do not cancel the written complaint.",
+      "recommendation": "Review housekeeping completion times and room-service collection rounds, and follow up the complaint using private records.",
+      "responseIds": [
+        "response-217"
+      ],
+      "periodId": "period-011"
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Check beachfront internet and recreation provision",
+      "detail": "One form reports no beachfront internet; a separate form reports no gym. These are guest reports about availability.",
+      "recommendation": "Test internet coverage in beachfront guest areas and clarify available fitness facilities and alternatives.",
+      "responseIds": [
+        "response-216",
+        "response-220"
+      ],
+      "periodId": "period-011"
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Improve access while preserving the location appeal",
+      "detail": "One comment-only form praises the location but criticizes the access road. No item ratings are selected on that form.",
+      "recommendation": "Assess the approach road with the responsible parties and provide clear arrival guidance.",
+      "responseIds": [
+        "response-215"
+      ],
+      "periodId": "period-011"
+    },
+    {
+      "type": "strength",
+      "priority": "routine",
+      "title": "Retain the service guests appreciate",
+      "detail": "One form explicitly praises service while criticizing rice texture. Several other forms contain good or excellent service marks alongside complaints.",
+      "recommendation": "Recognize effective service and use the specific complaints to guide food and operational improvements.",
+      "responseIds": [
+        "response-219"
+      ],
+      "periodId": "period-011"
     }
   ]
 }
