@@ -1,8 +1,8 @@
 {
   "version": 3,
   "hotelName": "Reddington Chalets",
-  "publishedAt": "2026-10-07T12:41:16.713Z",
-  "executiveSummary": "The 236 distinct scanned forms contain 114 positive, 110 mixed and 11 negative assessments; one earlier cropped form remains unclear. The latest supplied batch, 28 September–4 October, adds 16 forms: 4 positive, 11 mixed and 1 negative. New concerns cover food freshness and preparation, breakfast and fish portions, the access road, room maintenance and service speed. Four new forms explicitly praise service. Food variety (20 forms), service speed (19) and the access road (18) remain recurring concerns. Six earlier forms report pests and two raise room-lock security issues; those checks remain priorities. Figures come from scans only. The new PDF includes one blank scan; three ambiguous marks are excluded. Four forms dated 5 October remain under the supplied batch label with the discrepancy disclosed. Reporting periods are not verified response dates, and the first entry still has no scans.",
+  "publishedAt": "2026-10-13T19:31:16.338Z",
+  "executiveSummary": "The 270 distinct scanned forms contain 133 positive, 124 mixed, 11 negative and 1 neutral assessments; one earlier cropped form remains unclear. The latest supplied batch, 5–11 October, adds 34 forms: 19 positive, 14 mixed and 1 neutral. New concerns cover food waiting times, bathroom maintenance, room supplies, menu guidance and the access road. Four new forms explicitly praise service. Food variety (22 forms), service speed (21) and the access road (20) remain recurring concerns. Six earlier forms report pests and two raise room-lock security issues; those checks remain priorities. Figures come from scans only. All 17 new pages were reviewed; 7 ambiguous marks are excluded and one room-improvement comment is partly unclear. One form dated 12 October remains under the supplied batch label. Reporting periods are not verified response dates, and the first entry still has no scans.",
   "periods": [
     {
       "id": "period-001",
@@ -147,6 +147,18 @@
       "observedForms": 16,
       "duplicateForms": 0,
       "note": "Sixteen distinct forms on eight populated pages; one blank/failed scan is excluded. No repeated copies identified. Period follows the supplied batch filename, but four forms are dated 5 October, outside that interval; individual response dates are not verified. Three ambiguous item selections are excluded. One comment-only form has no selected ratings. An extra off-scale zero beside a selected freshness score of 1 is not scored. Spreadsheet figures were not imported."
+    },
+    {
+      "id": "period-013",
+      "label": "5–11 Oct 2026",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "status": "scanned",
+      "scannedPages": 17,
+      "blankPages": 0,
+      "observedForms": 34,
+      "duplicateForms": 0,
+      "note": "Thirty-four distinct forms across 17 pages in two PDFs; no blank pages or repeated copies identified. Forms with similar respondents but different ratings and comments are retained as distinct forms. Period follows supplied filenames; one form is dated 12 October, outside the interval. Individual response dates are not verified. 7 ambiguous item selections are excluded. One room-improvement comment is partly unclear. One comment-only form has no ratings. Spreadsheet figures were not imported."
     }
   ],
   "records": [
@@ -7760,6 +7772,1086 @@
       ],
       "praises": [],
       "summary": "Requests improvement in service speed, marked average. Every other selected item is excellent."
+    },
+    {
+      "id": "response-237",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        null,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        4,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [
+        11
+      ],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Facilities"
+      ],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Describes an enjoyable visit but requests improvement to the appearance of bar fridges. Clear ratings are excellent; conflicting professionalism marks are excluded."
+    },
+    {
+      "id": "response-238",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        null,
+        null,
+        4,
+        3,
+        4,
+        4,
+        4,
+        null,
+        null,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience",
+        "Wayfinding"
+      ],
+      "summary": "Describes a pleasant experience and says the property was easy to locate. Selected ratings are good or excellent."
+    },
+    {
+      "id": "response-239",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        null,
+        null,
+        3,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Access road"
+      ],
+      "praises": [
+        "Service"
+      ],
+      "summary": "Praises excellent service but criticizes the access road. Selected marks are excellent apart from good portion size."
+    },
+    {
+      "id": "response-240",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        2,
+        1,
+        4,
+        3,
+        4,
+        2,
+        1
+      ],
+      "uncertainItems": [
+        10
+      ],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Menu explanation",
+        "Location"
+      ],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Expresses enthusiasm for returning, while marking menu explanation and location needs improvement. Friendliness has conflicting selections and is excluded; service speed and ambience are excellent."
+    },
+    {
+      "id": "response-241",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3,
+        4,
+        4,
+        3,
+        2,
+        4,
+        3,
+        3,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Access road"
+      ],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Likes the property but requests work on the access road. Ratings are good or excellent apart from average service speed."
+    },
+    {
+      "id": "response-242",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        null,
+        null,
+        4,
+        2,
+        3,
+        null,
+        3,
+        2,
+        2,
+        3,
+        4,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Service speed"
+      ],
+      "praises": [
+        "Food"
+      ],
+      "summary": "Praises the food but reports a long wait and requests faster service. Service speed, menu explanation, flavour and recreation are marked average."
+    },
+    {
+      "id": "response-243",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        null,
+        null,
+        4,
+        4,
+        null,
+        4,
+        null,
+        null,
+        null,
+        4,
+        4,
+        4,
+        null,
+        null,
+        4,
+        4,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "General improvement"
+      ],
+      "praises": [],
+      "summary": "Requests improvement concerning standard rooms, but the specific handwritten request is not clear enough to interpret confidently. Every selected rating is excellent."
+    },
+    {
+      "id": "response-244",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        null,
+        null,
+        3,
+        3,
+        null,
+        3,
+        3,
+        4,
+        null,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [
+        5
+      ],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Describes the experience as generally good. Clear ratings are good or excellent; conflicting food-presentation marks are excluded."
+    },
+    {
+      "id": "response-245",
+      "periodId": "period-013",
+      "scores": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        null,
+        null,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Amenities",
+        "Facilities"
+      ],
+      "praises": [],
+      "summary": "Requests breakfast trays, larger or additional room bins, and a bin in the breakfast area. Ratings are good apart from average menu explanation and service speed."
+    },
+    {
+      "id": "response-246",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        3,
+        3,
+        3,
+        4,
+        null,
+        null,
+        4,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Service speed"
+      ],
+      "praises": [
+        "Food freshness",
+        "Staff friendliness"
+      ],
+      "summary": "Reports a long food wait but praises freshness and friendly staff. Selected ratings are good or excellent."
+    },
+    {
+      "id": "response-247",
+      "periodId": "period-013",
+      "scores": [
+        3,
+        3,
+        3,
+        4,
+        3,
+        3,
+        3,
+        4,
+        2,
+        3,
+        4,
+        3,
+        3,
+        3,
+        4,
+        3,
+        3,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Describes an enjoyable stay and hopes to return. Ratings are good or excellent except average recreation quality."
+    },
+    {
+      "id": "response-248",
+      "periodId": "period-013",
+      "scores": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience",
+        "Service"
+      ],
+      "summary": "Recommends the property and thanks the team for its service. Service marks are excellent and all other items are good."
+    },
+    {
+      "id": "response-249",
+      "periodId": "period-013",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Room maintenance",
+        "Bathroom supplies"
+      ],
+      "praises": [],
+      "summary": "Reports a leaking toilet and requests an additional towel. Most ratings are average; professionalism, menu explanation, ambience and location are good."
+    },
+    {
+      "id": "response-250",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        1,
+        4,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        4,
+        4,
+        null,
+        4,
+        4,
+        4,
+        2,
+        4
+      ],
+      "uncertainItems": [
+        0
+      ],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Room maintenance"
+      ],
+      "praises": [],
+      "summary": "Reports blackened, discoloured bathroom sealant and requests replacement. Room condition is marked needs improvement, while several service items are excellent. Conflicting room-cleanliness marks are excluded."
+    },
+    {
+      "id": "response-251",
+      "periodId": "period-013",
+      "scores": [
+        3,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3,
+        3,
+        null,
+        null,
+        4,
+        4,
+        3,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Food variety"
+      ],
+      "praises": [],
+      "summary": "Requests different tea products. Ratings are mainly good or excellent, with average service speed."
+    },
+    {
+      "id": "response-252",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Expresses satisfaction in a brief comment; no item ratings are selected."
+    },
+    {
+      "id": "response-253",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Describes the experience as excellent and gives excellent marks throughout."
+    },
+    {
+      "id": "response-254",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Service",
+        "Overall experience"
+      ],
+      "summary": "Praises service and intends to return. Every selected item is excellent; amenities are unmarked."
+    },
+    {
+      "id": "response-255",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        4,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Service"
+      ],
+      "summary": "Thanks the team for its care and anticipates returning. Selected items are marked in the excellent column."
+    },
+    {
+      "id": "response-256",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience",
+        "Ambience",
+        "Food"
+      ],
+      "summary": "Praises the setting and meals. All marks are excellent apart from good recreation ratings."
+    },
+    {
+      "id": "response-257",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Amenities"
+      ],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Describes the experience very favourably but requests a room mirror. A continuous line selects the excellent column throughout."
+    },
+    {
+      "id": "response-258",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Reports feeling safe and compliments the team. Selected ratings are excellent; professionalism is unmarked."
+    },
+    {
+      "id": "response-259",
+      "periodId": "period-013",
+      "scores": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Expresses satisfaction overall. Accommodation and food flavour are average, with good or excellent marks elsewhere."
+    },
+    {
+      "id": "response-260",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        3,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        1,
+        2,
+        4,
+        3,
+        4,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Amenities",
+        "Menu explanation"
+      ],
+      "praises": [
+        "Staff friendliness",
+        "Food"
+      ],
+      "summary": "Reports a poorly functioning television while praising the welcome and breakfast. Menu explanation is marked needs improvement; amenities and service speed are average."
+    },
+    {
+      "id": "response-261",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Describes a very enjoyable stay. All selected items are excellent; recreation is unmarked."
+    },
+    {
+      "id": "response-262",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        3,
+        2,
+        4,
+        4,
+        3,
+        null,
+        3,
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [
+        11
+      ],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "Ratings are good or excellent apart from average food freshness. Professionalism has no clear selection and is excluded; no comment is supplied."
+    },
+    {
+      "id": "response-263",
+      "periodId": "period-013",
+      "scores": [
+        3,
+        3,
+        3,
+        4,
+        4,
+        2,
+        3,
+        4,
+        null,
+        null,
+        4,
+        3,
+        3,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "Rates selected items good or excellent apart from average food presentation. No written comment is supplied."
+    },
+    {
+      "id": "response-264",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        3,
+        3,
+        3,
+        4,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        3,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "Gives good or excellent marks throughout, with no written comment."
+    },
+    {
+      "id": "response-265",
+      "periodId": "period-013",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        2,
+        2,
+        3,
+        2,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Neutral",
+      "concerns": [],
+      "praises": [],
+      "summary": "Gives mainly average ratings, with good ambience and location. Professionalism and menu explanation are unmarked; no written comment is supplied."
+    },
+    {
+      "id": "response-266",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "Gives excellent marks to all selected items except good amenities. Recreation and written comments are blank."
+    },
+    {
+      "id": "response-267",
+      "periodId": "period-013",
+      "scores": [
+        3,
+        null,
+        null,
+        4,
+        2,
+        2,
+        null,
+        3,
+        null,
+        null,
+        3,
+        3,
+        2,
+        null,
+        3,
+        2,
+        3,
+        4
+      ],
+      "uncertainItems": [
+        8,
+        13
+      ],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "Clear ratings range from average to excellent, with good or excellent marks on most answered items. An overwritten recreation-quality mark and conflicting service-speed marks are excluded; no comment is supplied."
+    },
+    {
+      "id": "response-268",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        4,
+        3,
+        3,
+        2,
+        4,
+        3,
+        4,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "Gives mainly good or excellent marks, with average portions, flavour, choice, recreation quality and service speed. No written comment is supplied."
+    },
+    {
+      "id": "response-269",
+      "periodId": "period-013",
+      "scores": [
+        4,
+        4,
+        4,
+        null,
+        3,
+        3,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        1,
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Food variety",
+        "Food freshness",
+        "Menu explanation"
+      ],
+      "praises": [],
+      "summary": "Marks food choice, freshness and menu explanation needs improvement despite good or excellent marks elsewhere. No written comment is supplied."
+    },
+    {
+      "id": "response-270",
+      "periodId": "period-013",
+      "scores": [
+        null,
+        null,
+        null,
+        3,
+        3,
+        3,
+        3,
+        3,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "Marks all five food items good. Other items and comments are blank."
     }
   ],
   "insights": [
@@ -7793,7 +8885,7 @@
       "type": "opportunity",
       "priority": "routine",
       "title": "Broaden food choice and keep options available",
-      "detail": "Food variety is flagged on 20 forms; availability on 6. Requests include buffet and drink choices, later menu availability and breakfast supplies. Counts overlap and should not be added as unique guests.",
+      "detail": "Food variety is flagged on 22 forms; availability on 6. The latest batch includes a request for alternative tea products and a lowest food-choice rating. Earlier requests include buffet and drink choices, later menu availability and breakfast supplies. Counts overlap.",
       "recommendation": "Review buffet rotation and stock planning; communicate unavailable dishes before orders, and assess a limited late-evening menu.",
       "responseIds": [
         "response-015",
@@ -7820,14 +8912,16 @@
         "response-163",
         "response-180",
         "response-181",
-        "response-217"
+        "response-217",
+        "response-251",
+        "response-269"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Improve speed and keep guests informed",
-      "detail": "Service speed is flagged on 19 forms. The 28 September–4 October batch adds one lowest service-speed rating and one written request for faster service. Earlier comments include food delays and requests for food-ready calls; favourable and adverse evidence are retained.",
+      "detail": "Service speed is flagged on 21 forms. Two forms in the 5–11 October batch report food delays while also praising food or freshness. Earlier comments include food delays and requests for food-ready calls; favourable and adverse evidence are retained.",
       "recommendation": "Track order-to-service time, agree who notifies guests when orders are ready, and review breakfast readiness and table clearing.",
       "responseIds": [
         "response-004",
@@ -7848,14 +8942,16 @@
         "response-214",
         "response-216",
         "response-224",
-        "response-236"
+        "response-236",
+        "response-242",
+        "response-246"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Repair missing or nonworking room essentials",
-      "detail": "Amenities are flagged on 15 forms and room maintenance on 15, with overlap. New reports involve an air-conditioner leak, hot water, television channels, room readiness and a window blind. Earlier reports include drainage and a nonworking room phone.",
+      "detail": "Amenities are flagged on 18 forms and room maintenance on 17, with overlap. The latest batch reports a leaking toilet, discoloured bathroom sealant and a poorly functioning television, and requests room bins and a mirror. Earlier reports include hot-water, drainage and air-conditioner problems.",
       "recommendation": "Use a room-readiness checklist for amenities, television, hot water, shower and leaks. Track reported faults through resolution.",
       "responseIds": [
         "response-027",
@@ -7881,14 +8977,19 @@
         "response-228",
         "response-233",
         "response-234",
-        "response-235"
+        "response-235",
+        "response-245",
+        "response-249",
+        "response-250",
+        "response-257",
+        "response-260"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Improve the arrival experience",
-      "detail": "The access road is flagged on 18 forms, and wayfinding on 5. Five forms in the latest supplied batch request road improvements; one acknowledges some progress and another praises the location. Categories overlap.",
+      "detail": "The access road is flagged on 20 forms, and wayfinding on 5. Two forms in the 5–11 October batch request road improvements; another praises ease of locating the property. Categories overlap.",
       "recommendation": "Assess road repairs with the responsible parties and add clear approach signs and arrival directions.",
       "responseIds": [
         "response-009",
@@ -7913,14 +9014,16 @@
         "response-224",
         "response-232",
         "response-234",
-        "response-235"
+        "response-235",
+        "response-239",
+        "response-241"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Review food quality and portions",
-      "detail": "Food temperature is flagged on 5 forms, freshness on 9, portions on 12 and flavour on 10. The latest supplied batch adds two freshness concerns and two portion requests. One guest reports tilapia believed to be from the previous day; another reports hard beef and insufficiently crisp yam. These are guest reports and selected ratings, not confirmed food-safety findings; counts overlap.",
+      "detail": "Food temperature is flagged on 5 forms, freshness on 10, portions on 12 and flavour on 10. The latest batch adds one lowest freshness rating. Earlier reports cover freshness, hard beef, insufficiently crisp yam and small portions. These are guest reports and selected ratings, not confirmed food-safety findings; counts overlap.",
       "recommendation": "Review food holding and service routines, investigate freshness reports and standardize portions against what guests are offered.",
       "responseIds": [
         "response-015",
@@ -7949,14 +9052,15 @@
         "response-223",
         "response-225",
         "response-227",
-        "response-231"
+        "response-231",
+        "response-269"
       ]
     },
     {
       "type": "strength",
       "priority": "routine",
       "title": "Preserve the hospitality guests value",
-      "detail": "Explicit praise includes service on 39 forms, staff friendliness on 9 and professionalism on 4. Categories overlap; positive ticks alone do not count as written praise.",
+      "detail": "Explicit praise includes service on 43 forms, staff friendliness on 11 and professionalism on 4. Categories overlap; positive ticks alone do not count as written praise.",
       "recommendation": "Recognize the behaviours guests praise and use them in coaching, alongside the specific service concerns.",
       "responseIds": [
         "response-003",
@@ -8004,14 +9108,20 @@
         "response-222",
         "response-225",
         "response-226",
-        "response-229"
+        "response-229",
+        "response-239",
+        "response-246",
+        "response-248",
+        "response-254",
+        "response-255",
+        "response-260"
       ]
     },
     {
       "type": "strength",
       "priority": "routine",
       "title": "Keep the setting and enjoyable stays central",
-      "detail": "Explicit comments praise the overall experience on 59 forms and ambience on 12. Some of the same forms also request improvements.",
+      "detail": "Explicit comments praise the overall experience on 74 forms and ambience on 13. Some of the same forms also request improvements.",
       "recommendation": "Preserve the welcoming setting while addressing the concrete concerns listed in mixed feedback.",
       "responseIds": [
         "response-006",
@@ -8081,7 +9191,22 @@
         "response-207",
         "response-210",
         "response-213",
-        "response-230"
+        "response-230",
+        "response-237",
+        "response-238",
+        "response-240",
+        "response-241",
+        "response-244",
+        "response-247",
+        "response-248",
+        "response-252",
+        "response-253",
+        "response-254",
+        "response-256",
+        "response-257",
+        "response-258",
+        "response-259",
+        "response-261"
       ]
     },
     {
@@ -8151,6 +9276,44 @@
         "response-233",
         "response-234",
         "response-235"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Reduce food waiting times",
+      "detail": "In the 5–11 October supplied batch: Two forms report long food waits, while praising the food or its freshness. Several other forms give service speed an average rating without a written delay complaint.",
+      "recommendation": "Track order-to-table times, coordinate kitchen and service staff, and explain expected waits.",
+      "responseIds": [
+        "response-242",
+        "response-246"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Inspect bathroom maintenance and room supplies",
+      "detail": "In the 5–11 October supplied batch: Two forms report bathroom maintenance issues: a leaking toilet and discoloured sealant. Requests also cover additional towels, room bins and a mirror; another form reports a poorly functioning television.",
+      "recommendation": "Inspect the toilet and sealant, check televisions, and review towel, bin and mirror provision before rooms are released.",
+      "responseIds": [
+        "response-245",
+        "response-249",
+        "response-250",
+        "response-257",
+        "response-260"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Review food choices, freshness and menu guidance",
+      "detail": "In the 5–11 October supplied batch: Two forms flag food choice, including a request for alternative tea products and one lowest choice rating. The latter also gives freshness the lowest rating. Three forms mark menu explanation needs improvement. Counts overlap.",
+      "recommendation": "Review beverage choices, check freshness controls and coach staff to explain menu options clearly.",
+      "responseIds": [
+        "response-240",
+        "response-251",
+        "response-260",
+        "response-269"
       ]
     }
   ],
@@ -9069,6 +10232,101 @@
         "response-226",
         "response-229",
         "response-230"
+      ]
+    },
+    {
+      "periodId": "period-013",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Reduce food waiting times",
+      "detail": "Two forms report long food waits, while praising the food or its freshness. Several other forms give service speed an average rating without a written delay complaint.",
+      "recommendation": "Track order-to-table times, coordinate kitchen and service staff, and explain expected waits.",
+      "responseIds": [
+        "response-242",
+        "response-246"
+      ]
+    },
+    {
+      "periodId": "period-013",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Inspect bathroom maintenance and room supplies",
+      "detail": "Two forms report bathroom maintenance issues: a leaking toilet and discoloured sealant. Requests also cover additional towels, room bins and a mirror; another form reports a poorly functioning television.",
+      "recommendation": "Inspect the toilet and sealant, check televisions, and review towel, bin and mirror provision before rooms are released.",
+      "responseIds": [
+        "response-245",
+        "response-249",
+        "response-250",
+        "response-257",
+        "response-260"
+      ]
+    },
+    {
+      "periodId": "period-013",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Review food choices, freshness and menu guidance",
+      "detail": "Two forms flag food choice, including a request for alternative tea products and one lowest choice rating. The latter also gives freshness the lowest rating. Three forms mark menu explanation needs improvement. Counts overlap.",
+      "recommendation": "Review beverage choices, check freshness controls and coach staff to explain menu options clearly.",
+      "responseIds": [
+        "response-240",
+        "response-251",
+        "response-260",
+        "response-269"
+      ]
+    },
+    {
+      "periodId": "period-013",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Improve arrival and shared facilities",
+      "detail": "Two forms request access-road improvements. Separate requests concern bar-fridge appearance and breakfast trays and bins.",
+      "recommendation": "Coordinate road maintenance, inspect bar equipment appearance and review breakfast-area supplies.",
+      "responseIds": [
+        "response-237",
+        "response-239",
+        "response-241",
+        "response-245"
+      ]
+    },
+    {
+      "periodId": "period-013",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Clarify the room-improvement request",
+      "detail": "One form requests an improvement concerning standard rooms, but the precise handwriting is unclear. Its selected ratings are excellent.",
+      "recommendation": "Review the original privately before deciding on a specific room change.",
+      "responseIds": [
+        "response-243"
+      ]
+    },
+    {
+      "periodId": "period-013",
+      "type": "strength",
+      "priority": "routine",
+      "title": "Preserve service and enjoyable experiences",
+      "detail": "Four forms explicitly praise service. Two praise friendly staff or the welcome, and several describe enjoyable experiences or intentions to return. Praise can coexist with operational complaints.",
+      "recommendation": "Recognize the service practices guests appreciate while addressing waiting times and room issues.",
+      "responseIds": [
+        "response-237",
+        "response-238",
+        "response-239",
+        "response-240",
+        "response-241",
+        "response-244",
+        "response-246",
+        "response-247",
+        "response-248",
+        "response-252",
+        "response-253",
+        "response-254",
+        "response-255",
+        "response-256",
+        "response-257",
+        "response-258",
+        "response-259",
+        "response-260",
+        "response-261"
       ]
     }
   ]
