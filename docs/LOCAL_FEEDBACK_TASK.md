@@ -23,6 +23,6 @@ Work in this project's existing directory. Read `docs/PROCESSING_FEEDBACK.md` an
 
 ## Publishing status
 
-This AI task updates the local report only. Its enclosing script separately validates, commits only `public/data/dashboard.json`, pushes to `TerrySTettey/RedMonitor` on `main`, and verifies the Pages deployment. Do not run Git write commands or change publishing code from this task.
+This AI task updates the local report only. Its enclosing script separately validates, commits only `public/data/dashboard.json`, pushes to `RedGTDev/RedMonitor` on `main`, and verifies the Pages deployment. Do not run Git write commands or change publishing code from this task.
 
 Finish with new and cumulative form counts, periods processed, main findings, uncertainties, pending batches, validation results and explicit local-only deployment status. Do not claim a website update without a successful deployment.

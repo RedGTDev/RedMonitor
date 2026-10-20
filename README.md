@@ -7,13 +7,13 @@ A public hotel guest feedback dashboard, designed for free GitHub Pages hosting.
 1. Put scanned forms or photos in **`feedback-inbox/`**.
 2. Ask the assistant: **“Process the feedback inbox and update the dashboard.”**
 3. The assistant reads the forms with AI, extracts ratings and themes, writes anonymous summaries and actionable findings, and updates the website's report data.
-4. The local runner validates the prepared report, commits only the anonymous dataset and pushes to `TerrySTettey/RedMonitor`. The included GitHub Actions workflow rebuilds and publishes the site. The runner verifies the live report before reporting success.
+4. The local runner validates the prepared report, commits only the anonymous dataset and pushes to `RedGTDev/RedMonitor`. The included GitHub Actions workflow rebuilds and publishes the site. The runner verifies the live report before reporting success.
 
 The website displays the prepared report: reporting-period frequency, positive/mixed/negative/neutral sentiment, ranked concerns and praise, original 1–4 item ratings, anonymous summaries, and findings linked to supporting forms. Recommendations follow the selected reporting-period range, with separate prepared findings and evidence for each period. The folder is not watched automatically; ask for processing whenever you add a batch.
 
 **Current report:** 180 distinct forms reconstructed from 127 PDF pages across eight scanned batches. Five repeated forms are excluded; entry 1 has no scans. Spreadsheet figures were not imported. Reporting-period labels come from supplied batch metadata, with date discrepancies disclosed.
 
-Sentiment: 92 positive, 78 mixed, 9 negative, 0 neutral and 1 unclear. High-priority findings cover room locks and pest reports. GitHub Pages is configured at [the public dashboard](https://terrystettey.github.io/RedMonitor/).
+Sentiment: 92 positive, 78 mixed, 9 negative, 0 neutral and 1 unclear. High-priority findings cover room locks and pest reports. The previous dashboard is at https://terrystettey.github.io/RedMonitor/. The migration target is `RedGTDev/RedMonitor`; its Pages deployment has not yet been verified.
 
 ## Privacy
 
@@ -54,7 +54,7 @@ Every subsequent commit to `public/data/dashboard.json` triggers a fresh deploym
 
 ## Preparing reports
 
-For the local inbox runner, see [Local automation](docs/LOCAL_AUTOMATION.md). Run it with `npm run feedback:process`; only new dated batch folders marked `READY` are eligible. On this computer, a user timer is enabled for Monday at 09:00 Africa/Accra, with a desktop reminder. Publishing targets `TerrySTettey/RedMonitor` and requires Pages to be enabled. Cloning the project elsewhere does not install the timer or GitHub credentials.
+For the local inbox runner, see [Local automation](docs/LOCAL_AUTOMATION.md). Run it with `npm run feedback:process`; only new dated batch folders marked `READY` are eligible. On this computer, a user timer is enabled for Monday at 09:00 Africa/Accra, with a desktop reminder. Publishing targets `RedGTDev/RedMonitor` and requires Pages to be enabled. Cloning the project elsewhere does not install the timer or GitHub credentials.
 
 Detailed assistant instructions, extraction rules, and the report schema are in [Processing feedback](docs/PROCESSING_FEEDBACK.md).
 

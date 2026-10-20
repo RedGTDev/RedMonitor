@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {checkDeploymentPolicy, reportPath} from '../scripts/deployment-policy.js';
-const base = {origin:'https://github.com/TerrySTettey/RedMonitor.git', branch:'main', stagedPaths:[], changedPaths:[], aheadPaths:[], behind:0};
+const base = {origin:'https://github.com/RedGTDev/RedMonitor.git', branch:'main', stagedPaths:[], changedPaths:[], aheadPaths:[], behind:0};
 test('publishing allows new reports and retrying a report-only unpushed commit', () => {
   assert.doesNotThrow(() => checkDeploymentPolicy({...base, changedPaths:[reportPath]}));
   assert.doesNotThrow(() => checkDeploymentPolicy({...base, aheadPaths:[reportPath]}));
@@ -14,6 +14,7 @@ test('publishing rejects unrelated work, existing staging and remote divergence'
   }
 });
 test('publishing cannot accidentally target another repository or branch', () => {
+  assert.throws(() => checkDeploymentPolicy({...base,origin:'https://github.com/TerrySTettey/RedMonitor.git'}));
   assert.throws(() => checkDeploymentPolicy({...base,origin:'https://github.com/other/repo.git'}));
   assert.throws(() => checkDeploymentPolicy({...base,branch:'experiment'}));
 });

@@ -2,7 +2,7 @@
 
 ## Current state
 
-The local runner and Linux user timer are installed and enabled on this computer. The schedule is Monday at 09:00 Africa/Accra for both a desktop reminder and an inbox check; activation was verified on September 15, 2026, with the next run September 21. Publishing targets `TerrySTettey/RedMonitor` on `main`. Codex CLI and GitHub CLI must be installed and signed in. The runner uses saved authentication and account usage limits. Linux `flock` prevents overlapping processing and publishing invocations.
+The local runner and Linux user timer are installed and enabled on this computer. The schedule is Monday at 09:00 Africa/Accra for both a desktop reminder and an inbox check; activation was verified on September 15, 2026, with the next run September 21. Publishing targets `RedGTDev/RedMonitor` on `main`. Codex CLI and GitHub CLI must be installed and signed in. The runner uses saved authentication and account usage limits. Linux `flock` prevents overlapping processing and publishing invocations.
 
 The timer files in `automation/` reference this computer's project path. Install them in the user's systemd configuration and enable `redmonitor-feedback.timer` to activate scheduling. Verify activation with `systemctl --user list-timers redmonitor-feedback.timer`. A persistent timer catches up a missed run when the user service manager next starts; it does not wake a powered-off computer. Desktop notifications require a running notification session. Logs are available with `journalctl --user -u redmonitor-feedback.service`.
 
@@ -32,6 +32,7 @@ The publisher needs GitHub CLI on PATH, Git configured to use its credentials, a
 ## Remaining setup
 
 - Test the first real batch and confirm desktop notification delivery. The enabled timer sends a local desktop notification, not a ChatGPT message. It needs the computer on and network access for Codex, but not the desktop app. It uses this existing checkout because private inbox files are excluded from Git worktrees.
-- Pages is enabled using GitHub Actions. With the owner's approval, the repository was made public on September 15, 2026, to use free Pages hosting. The dashboard URL is https://terrystettey.github.io/RedMonitor/.
+- The previous repository used GitHub Actions Pages at https://terrystettey.github.io/RedMonitor/. Enable and verify Pages separately for `RedGTDev/RedMonitor`.
+- GrokBot integration is pending identification of the service and its supported processing interface. The extraction runner still invokes Codex CLI.
 
 Never stage scans, private logs or source manifests. The raw inbox is not uploaded to GitHub.
