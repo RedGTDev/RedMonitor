@@ -7,6 +7,7 @@
       "id": "board_mu2qr7p2_1763czosjr0pl",
       "name": "RedMonitor",
       "kind": "project",
+      "projectId": "project_mu2ndyfw_5430df81",
       "viewport": {
         "x": 0,
         "y": 0,
@@ -31,8 +32,7 @@
       ],
       "edges": [],
       "createdAt": "2026-09-15T14:02:32.246Z",
-      "updatedAt": "2026-09-15T14:02:32.246Z",
-      "projectId": "project_mu2ndyfw_5430df81"
+      "updatedAt": "2026-09-29T18:02:10.369Z"
     }
   ]
 }
