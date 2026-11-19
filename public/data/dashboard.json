@@ -1,8 +1,8 @@
 {
   "version": 3,
   "hotelName": "Reddington Chalets",
-  "publishedAt": "2026-11-19T14:42:34.064Z",
-  "executiveSummary": "The 337 distinct scanned forms contain 167 positive, 153 mixed, 15 negative and 1 neutral assessments; one earlier cropped form remains unclear. The latest supplied batch, 2–8 November, adds 11 forms: 6 positive, 3 mixed and 2 negative; no repeated or blank forms were found. Three of its forms are dated 9 November, outside the supplied week. The most serious new report is bathroom water flowing into a room. Other new concerns cover a missing fridge and telephone, a weak air conditioner, no visible waste bin, breakfast variety, salty food, delays and low recreation marks. Guests also describe very good or perfect stays, praise staff and local experiences, and say they would book again. Service speed (32 forms), food variety (27) and the access road (23) remain the leading recurring concerns. Seven forms report pests and two earlier forms raise room-lock security issues; those checks remain priorities. Figures come from scans only. All 6 new pages were reviewed; two unclear answers are excluded. The 26 October–1 November batch has not been supplied. Reporting periods are not verified response dates, and the first entry still has no scans.",
+  "publishedAt": "2026-11-19T14:48:10.693Z",
+  "executiveSummary": "The 346 distinct scanned forms contain 170 positive, 159 mixed, 15 negative and 1 neutral assessments; one earlier cropped form remains unclear. The latest supplied batch, 9–15 November, adds 9 forms: 3 positive and 6 mixed; no repeated or blank forms were found, and none of the three forms dated 9 November in the previous batch was repeated. New concerns cover taps and water flow, a room not cleaned, a nonworking room phone and Wi-Fi, tilapia freshness, a request to stop wrapping banku in polythene, a gym request and the roads. Guests also praise outstanding service and say they will visit again. The previous batch's most serious report, bathroom water flowing into a room, still needs checking. Service speed (32 forms), food variety (27) and the access road (24) remain the leading recurring concerns. Seven forms report pests and two earlier forms raise room-lock security issues; those checks remain priorities. Figures come from scans only. All 5 new pages were reviewed; two unclear answers are excluded. The 26 October–1 November feedback batch has not been supplied. Reporting periods are not verified response dates, and the first entry still has no scans.",
   "periods": [
     {
       "id": "period-001",
@@ -195,6 +195,18 @@
       "observedForms": 11,
       "duplicateForms": 0,
       "note": "Eleven forms on six pages, two per page except the last; no blank pages and no repeats of forms already counted were found. Period follows the supplied email and spreadsheet filename (2–8 November); the PDF filename says 2–9 November and three forms are dated 9 November, outside the interval. Other visible handwritten dates fall between 3 and 8 November; two forms are undated. Individual response dates are not verified. Two ambiguous answers are excluded. Three comment-only forms have no ratings. Spreadsheet figures were not imported."
+    },
+    {
+      "id": "period-017",
+      "label": "9–15 Nov 2026",
+      "start": "2026-11-09",
+      "end": "2026-11-15",
+      "status": "scanned",
+      "scannedPages": 5,
+      "blankPages": 0,
+      "observedForms": 9,
+      "duplicateForms": 0,
+      "note": "Nine forms on five pages, two per page except the last; no blank pages. Period follows the supplied email, spreadsheet and PDF filenames (9–15 November). Visible handwritten dates are 10, 11 and 15 November; three forms are undated. No form matched those already counted, including the three dated 9 November in the previous batch. Two ambiguous answers are excluded. Individual response dates are not verified. Spreadsheet figures were not imported."
     }
   ],
   "records": [
@@ -11044,6 +11056,297 @@
       ],
       "praises": [],
       "summary": "No written comment. Amenities and both recreation items are marked needs improvement; menu explanation and ambience are rated average, and other items good or excellent."
+    },
+    {
+      "id": "response-338",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Service",
+        "Service speed",
+        "Food temperature",
+        "Overall experience"
+      ],
+      "summary": "Praises the service as outstanding, with staff willing to accommodate guests' needs; says service was quicker this time and the food was hot, and describes being hosted as always a pleasure. Nearly all items are excellent; overall room condition and service speed are good. Parts of the handwriting are hard to read."
+    },
+    {
+      "id": "response-339",
+      "periodId": "period-017",
+      "scores": [
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Water supply",
+        "Room maintenance"
+      ],
+      "praises": [],
+      "summary": "Reports that the tap in the room is not flowing. Most items are excellent; room cleanliness, overall room condition, both recreation items, menu explanation and service speed are good."
+    },
+    {
+      "id": "response-340",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        4,
+        null,
+        2,
+        null,
+        1,
+        3,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Food presentation",
+        "General improvement"
+      ],
+      "praises": [],
+      "summary": "Asks for the wrapping of banku in polythene to stop, saying they believe it can cause cancer; this is the guest's view, not a verified finding. Food presentation is marked needs improvement and portion size average; most other marked items are good or excellent, and amenities and flavour are blank. The scan is faint."
+    },
+    {
+      "id": "response-341",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        4,
+        null,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Water supply",
+        "Recreation availability",
+        "Access road"
+      ],
+      "praises": [],
+      "summary": "Says water flow can be improved, asks for a gym to be added and says the roads can be improved. Marked items are excellent except menu explanation, which is good; amenities and both recreation items are blank."
+    },
+    {
+      "id": "response-342",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        4,
+        3,
+        null,
+        null,
+        4,
+        null,
+        null,
+        null,
+        null,
+        4,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Room cleanliness",
+        "Guest orientation",
+        "Water supply"
+      ],
+      "praises": [],
+      "summary": "Reports that the room was not cleaned, that they were not told about breakfast and that the tap was not running in the morning. Only six items are marked: room cleanliness, overall room condition, food presentation and friendliness are excellent, amenities good and professionalism average."
+    },
+    {
+      "id": "response-343",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        null,
+        4,
+        4,
+        2,
+        4,
+        4,
+        1,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [
+        1
+      ],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Food freshness"
+      ],
+      "praises": [],
+      "summary": "Says the freshness of the tilapia should be worked on and kept fresh, adding that otherwise all is well. Freshness is marked needs improvement and flavour average; overall room condition has marks in two boxes and is left blank; other items are good or excellent."
+    },
+    {
+      "id": "response-344",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "uncertainItems": [],
+      "sentiment": "Mixed",
+      "concerns": [
+        "Amenities",
+        "Wi-Fi"
+      ],
+      "praises": [],
+      "summary": "Reports that the room phone was not working, and neither was the Wi-Fi. Nearly all items are excellent; amenities, both recreation items and menu explanation are good."
+    },
+    {
+      "id": "response-345",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        3,
+        3,
+        4,
+        3,
+        3,
+        3,
+        3,
+        null,
+        null,
+        4,
+        4,
+        3,
+        2,
+        3,
+        3,
+        null,
+        3
+      ],
+      "uncertainItems": [
+        16
+      ],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [],
+      "summary": "No written comment. Most items are good, with some excellent marks; service speed is average. Both recreation items are blank, and venue cleanliness has marks in two boxes and is left blank."
+    },
+    {
+      "id": "response-346",
+      "periodId": "period-017",
+      "scores": [
+        4,
+        4,
+        null,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        3
+      ],
+      "uncertainItems": [],
+      "sentiment": "Positive",
+      "concerns": [],
+      "praises": [
+        "Overall experience"
+      ],
+      "summary": "Says they will visit again. Ambience, venue cleanliness and room cleanliness and condition are excellent, other marked items good; amenities are blank."
     }
   ],
   "insights": [
@@ -11160,7 +11463,7 @@
       "type": "opportunity",
       "priority": "routine",
       "title": "Repair missing or nonworking room essentials",
-      "detail": "Amenities are flagged on 24 forms and room maintenance on 24, with overlap. The 2–8 November batch adds a report of bathroom water flowing into a room, a room without a fridge or telephone and with a weak air conditioner, and one lowest amenities rating. Earlier reports include requests for fridges and bins, a broken shower head, a leaking toilet, missing bathroom supplies, a poorly functioning television and hot-water, drainage and air-conditioner problems.",
+      "detail": "Amenities are flagged on 25 forms and room maintenance on 25, with overlap. The 2–8 November batch adds a report of bathroom water flowing into a room, a room without a fridge or telephone and with a weak air conditioner, and one lowest amenities rating. Earlier reports include requests for fridges and bins, a broken shower head, a leaking toilet, missing bathroom supplies, a poorly functioning television and hot-water, drainage and air-conditioner problems. The 9–15 November batch adds a report of a nonworking room phone and a tap not running.",
       "recommendation": "Use a room-readiness checklist for amenities, fridges, telephones, bins, bathroom supplies and drainage, television, hot water, air conditioning, shower fittings and bed set-up for the booked party. Track reported faults through resolution.",
       "responseIds": [
         "response-027",
@@ -11203,14 +11506,16 @@
         "response-326",
         "response-331",
         "response-334",
-        "response-337"
+        "response-337",
+        "response-339",
+        "response-344"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Improve the arrival experience",
-      "detail": "The access road is flagged on 23 forms, and wayfinding on 7. The 19–25 October batch adds two requests to improve or upgrade the road and two requests for clearer or visible signage. Categories overlap.",
+      "detail": "The access road is flagged on 24 forms, and wayfinding on 7. The 19–25 October batch adds two requests to improve or upgrade the road and two requests for clearer or visible signage. Categories overlap. The 9–15 November batch adds one request to improve the roads.",
       "recommendation": "Assess road repairs with the responsible parties and add clear approach signs and arrival directions.",
       "responseIds": [
         "response-009",
@@ -11241,14 +11546,15 @@
         "response-291",
         "response-307",
         "response-308",
-        "response-316"
+        "response-316",
+        "response-341"
       ]
     },
     {
       "type": "opportunity",
       "priority": "routine",
       "title": "Review food quality and portions",
-      "detail": "Food temperature is flagged on 5 forms, freshness on 15, portions on 16 and flavour on 13. The 2–8 November batch adds a report that food was too salty. Earlier reports cover freshness, hard beef, insufficiently crisp yam, poor fresh-juice quality, small portions and several lowest food ratings without a written complaint. These are guest reports and selected ratings, not confirmed food-safety findings; counts overlap.",
+      "detail": "Food temperature is flagged on 5 forms, freshness on 16, portions on 16 and flavour on 13. The 2–8 November batch adds a report that food was too salty. Earlier reports cover freshness, hard beef, insufficiently crisp yam, poor fresh-juice quality, small portions and several lowest food ratings without a written complaint. These are guest reports and selected ratings, not confirmed food-safety findings; counts overlap. The 9–15 November batch adds a request to keep tilapia fresh and a concern about wrapping banku in polythene (a guest's view, not a verified finding).",
       "recommendation": "Review food holding and service routines, investigate freshness reports and standardize portions against what guests are offered.",
       "responseIds": [
         "response-015",
@@ -11284,14 +11590,16 @@
         "response-306",
         "response-308",
         "response-315",
-        "response-335"
+        "response-335",
+        "response-343",
+        "response-340"
       ]
     },
     {
       "type": "strength",
       "priority": "routine",
       "title": "Preserve the hospitality guests value",
-      "detail": "Explicit praise includes service on 51 forms, staff friendliness on 16 and professionalism on 8. Categories overlap; positive ticks alone do not count as written praise.",
+      "detail": "Explicit praise includes service on 52 forms, staff friendliness on 16 and professionalism on 8. Categories overlap; positive ticks alone do not count as written praise.",
       "recommendation": "Recognize the behaviours guests praise and use them in coaching, alongside the specific service concerns.",
       "responseIds": [
         "response-003",
@@ -11359,14 +11667,15 @@
         "response-317",
         "response-321",
         "response-322",
-        "response-327"
+        "response-327",
+        "response-338"
       ]
     },
     {
       "type": "strength",
       "priority": "routine",
       "title": "Keep the setting and enjoyable stays central",
-      "detail": "Explicit comments praise the overall experience on 87 forms and ambience on 17. Some of the same forms also request improvements.",
+      "detail": "Explicit comments praise the overall experience on 89 forms and ambience on 17. Some of the same forms also request improvements.",
       "recommendation": "Preserve the welcoming setting while addressing the concrete concerns listed in mixed feedback.",
       "responseIds": [
         "response-006",
@@ -11468,7 +11777,9 @@
         "response-320",
         "response-327",
         "response-330",
-        "response-332"
+        "response-332",
+        "response-338",
+        "response-346"
       ]
     },
     {
@@ -11685,6 +11996,40 @@
         "response-335",
         "response-333",
         "response-336"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Check tap and water flow in rooms",
+      "detail": "In the 9–15 November supplied batch: Three forms report water problems: a tap in the room not flowing, water flow that can be improved, and a tap not running in the morning. These are guest reports, not verified maintenance findings.",
+      "recommendation": "Check water pressure and supply to the affected rooms, test taps at different times of day, and record repairs.",
+      "responseIds": [
+        "response-339",
+        "response-341",
+        "response-342"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Keep fish fresh and review banku packaging",
+      "detail": "In the 9–15 November supplied batch: One form says the freshness of the tilapia should be worked on and marks freshness needs improvement. Another asks for banku not to be wrapped in polythene, believing it can cause cancer, and marks food presentation needs improvement. These are guest reports and views, not verified findings.",
+      "recommendation": "Check fish storage and preparation times, and review whether banku packaging can use another material.",
+      "responseIds": [
+        "response-343",
+        "response-340"
+      ]
+    },
+    {
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Check room phones, Wi-Fi, housekeeping and orientation",
+      "detail": "In the 9–15 November supplied batch: One form reports a room phone and Wi-Fi not working. Another reports that the room was not cleaned and that the guest was not told about breakfast.",
+      "recommendation": "Test room phones and Wi-Fi between stays, confirm daily cleaning is logged, and include breakfast details at check-in.",
+      "responseIds": [
+        "response-344",
+        "response-342"
       ]
     }
   ],
@@ -12958,6 +13303,66 @@
         "response-327",
         "response-330",
         "response-332"
+      ]
+    },
+    {
+      "periodId": "period-017",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Check tap and water flow in rooms",
+      "detail": "Three forms report water problems: a tap in the room not flowing, water flow that can be improved, and a tap not running in the morning. These are guest reports, not verified maintenance findings.",
+      "recommendation": "Check water pressure and supply to the affected rooms, test taps at different times of day, and record repairs.",
+      "responseIds": [
+        "response-339",
+        "response-341",
+        "response-342"
+      ]
+    },
+    {
+      "periodId": "period-017",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Keep fish fresh and review banku packaging",
+      "detail": "One form says the freshness of the tilapia should be worked on and marks freshness needs improvement. Another asks for banku not to be wrapped in polythene, believing it can cause cancer, and marks food presentation needs improvement. These are guest reports and views, not verified findings.",
+      "recommendation": "Check fish storage and preparation times, and review whether banku packaging can use another material.",
+      "responseIds": [
+        "response-343",
+        "response-340"
+      ]
+    },
+    {
+      "periodId": "period-017",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Check room phones, Wi-Fi, housekeeping and orientation",
+      "detail": "One form reports a room phone and Wi-Fi not working. Another reports that the room was not cleaned and that the guest was not told about breakfast.",
+      "recommendation": "Test room phones and Wi-Fi between stays, confirm daily cleaning is logged, and include breakfast details at check-in.",
+      "responseIds": [
+        "response-344",
+        "response-342"
+      ]
+    },
+    {
+      "periodId": "period-017",
+      "type": "opportunity",
+      "priority": "routine",
+      "title": "Consider the gym and road requests",
+      "detail": "One form asks for a gym to be added and says the roads can be improved. Both recreation items on that form are blank.",
+      "recommendation": "Note the gym request among other recreation suggestions and keep the road improvement on the arrival-experience list.",
+      "responseIds": [
+        "response-341"
+      ]
+    },
+    {
+      "periodId": "period-017",
+      "type": "strength",
+      "priority": "routine",
+      "title": "Guests praise the service and plan to return",
+      "detail": "One form calls the service outstanding, says it was quicker and the food hot; another says the guest will visit again. Three of the nine forms are positive overall.",
+      "recommendation": "Recognize the staff behaviours guests mention while following up the water, room and food comments in the same batch.",
+      "responseIds": [
+        "response-338",
+        "response-346"
       ]
     }
   ]
